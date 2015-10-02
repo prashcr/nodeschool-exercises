@@ -3,11 +3,18 @@ nodeschool-exercises
 
 My solutions to [nodeschool](http://nodeschool.io) exercises.
 
-I'm currently working through them, so this serves a documentation of my progress, and a reference for future use.
+A link to the relevant exercises can be found within each folder.
 
-If you're new to Javascript, you should try and complete them on your own before viewing these solutions.
+Try and complete the exercises on your own before viewing these solutions.
+
+Progress
+----
+
+✓ `javascripting`  
+✓ `learnyounode`  
+… `stream-adventure`
 
 License
 ----
-MIT
+MIT 
 
