@@ -24,5 +24,3 @@ function printResults() {
     console.log(result.toString());
   });
 }
-
-// This exercise specifically mentioned completing the task without an async-handling library
