@@ -13,6 +13,7 @@ Progress
 ✓ `javascripting`  
 ✓ `learnyounode`  
 ✓ `scope-chains-closures`  
+✓ `count-to-6`  
 … `stream-adventure`
 
 License
